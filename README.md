@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @machadomarcel
-- 👀 I’m interested in make network
-- 🌱 I’m currently learning front-end
+- 👀 I’m interested in working as Devweb.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that can help me to grow on my studies.
 - 📫 How to reach me marcel.andradr.machado@gmail.com
 
