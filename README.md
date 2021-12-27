@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @machadomarcel
-- 👀 I’m interested in working as Devweb.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in working as Cyber Security / Cloud Analyst.
+- 🌱 I’m currently learning Cyber Security / Cloud and Python
 - 💞️ I’m looking to collaborate on projects that can help me to grow on my studies.
 - 📫 How to reach me marcel.andradr.machado@gmail.com
 
